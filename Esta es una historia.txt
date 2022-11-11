@@ -1,5 +1,7 @@
 Esta es una historia 
 
-jejeje muy muy corta para hacer un ejercicio con git 
+jejeje muy muy corta para hacer un ejercicio con git;
+ademas necesitamos añadir varios cambios 
+con esto debe ser sufuceiente
 
 una cosa más 
